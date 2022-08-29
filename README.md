@@ -2,4 +2,6 @@
 
 git clone https://github.com/TobiPHcheat/TOBIPHCHEAT-x-JUTTBRAND.git
 
-cd TOBIPHCHEAT-x-JUTTBRAND
+cd TOBIPHCHEAT-x-JUTTBRAND 
+
+python TOBI_tun.py
